@@ -1,8 +1,8 @@
 # Dabriel's Matrix Problem (Dynamics Programming)
 
-Here's one solution to Dabriel's Matrix Problem using DP technique :smiley:
+Here's one solution to Dabriel's Matrix Problem using DP technique. :smiley:
 
-You can find the original description for this problem on this link (in PT-BR): (Dabriel's Matrix)[https://www.urionlinejudge.com.br/judge/pt/problems/view/2778]
+You can find the original description for this problem on follow link (in PT-BR): [Dabriel's Matrix URI](https://www.urionlinejudge.com.br/judge/pt/problems/view/2778)
 
 
 
